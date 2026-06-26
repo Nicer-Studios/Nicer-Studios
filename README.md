@@ -1,6 +1,6 @@
 <!-- Başlık Görseli / Banner -->
 <p align="center">
-  <img src="LogoGray.png" alt="Nicer Studios Logo" width="120" style="border-radius: 12px;"/>
+  <img src="Logo.png" alt="Nicer Studios Logo" width="120" style="border-radius: 12px;"/>
 </p>
 
 <h1 align="center">NICER STUDIOS</h1>
