@@ -1,6 +1,6 @@
 <!-- Başlık Görseli / Banner -->
 <p align="center">
-  <img src="Nicer_studios_Logo_Gray.jpg" alt="Nicer Studios Logo" width="120" style="border-radius: 12px;"/>
+  <img src="LogoGray.png" alt="Nicer Studios Logo" width="120" style="border-radius: 12px;"/>
 </p>
 
 <h1 align="center">NICER STUDIOS</h1>
@@ -30,7 +30,7 @@ Mobil dünyadaki çözümlerimizi ve oyunlarımızı aşağıdan inceleyebilir, 
   <!-- 1. UYGULAMA: FAIZMATIK -->
   <tr>
     <td width="30%" align="center">
-      <img src="FaizMatik_Ikon_Linki_Buraya" width="100" style="border-radius: 22%;" alt="FaizMatik"/><br>
+      <img src="Faizmatik_Logo.png" width="100" style="border-radius: 22%;" alt="FaizMatik"/><br>
       <strong>FaizMatik</strong>
     </td>
     <td width="70%">
@@ -45,7 +45,7 @@ Mobil dünyadaki çözümlerimizi ve oyunlarımızı aşağıdan inceleyebilir, 
   <!-- 2. UYGULAMA: HELIX INFINITY -->
   <tr>
     <td width="30%" align="center">
-      <img src="HelixInfinity_Ikon_Linki_Buraya" width="100" style="border-radius: 22%;" alt="Helix Infinity"/><br>
+      <img src="Helix_Infinity_Logo.jpeg" width="100" style="border-radius: 22%;" alt="Helix Infinity"/><br>
       <strong>Helix Infinity</strong>
     </td>
     <td width="70%">
